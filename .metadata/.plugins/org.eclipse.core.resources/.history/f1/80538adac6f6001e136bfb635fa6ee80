@@ -1,0 +1,21 @@
+package strings_introduction;
+
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		String A = sc.next();
+		String B = sc.next();
+		
+		int sum = A.length() + B.length();
+		
+		boolean isLex = A.compareTo(B) > 0 ? true : false;
+		
+		String newA = A.charAt(0) + A.substring(1);
+		
+
+	}
+
+}

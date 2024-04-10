@@ -1,0 +1,23 @@
+package program;
+
+import java.util.Calendar;
+
+public class java_date_time {
+
+	public static String findDay(int month, int day, int year) {
+		String[] days = {"SUNDAY", "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRYDAY", "SATURNDAY"};
+		Calendar c = Calendar.getInstance();
+		
+		c.set(Calendar.DAY_OF_MONTH, day);
+		c.set(Calendar.MONTH, month);
+		c.set(Calendar.YEAR, year);
+		
+		return days[c.DAY_OF_WEEK - 1];
+    }
+	
+	public static void main(String[] args) {
+		
+		System.out.println(findDay(8, 14, 2017));
+	}
+
+}

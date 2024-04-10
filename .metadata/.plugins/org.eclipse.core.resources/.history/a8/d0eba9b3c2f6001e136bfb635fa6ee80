@@ -1,0 +1,18 @@
+package static_initializer_block;
+
+public class Main {
+	
+	static {
+		
+	}
+
+	public static void main(String[] args) {
+		try {
+			
+		}
+		catch(Exception e) {
+			System.out.println("java.lang.Exception: Breadth and height must be positive");
+		}
+	}
+
+}

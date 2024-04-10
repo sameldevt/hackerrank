@@ -1,0 +1,25 @@
+package if_else;
+
+import java.util.Scanner;
+
+public class Main {
+	private static final Scanner scanner = new Scanner(System.in);
+
+	public static void main(String[] args) {
+
+		int n = scanner.nextInt();
+		
+		if(n % 2 != 0) {
+			System.out.println("Weird");
+			return;
+		}
+		
+		if(n >= 2 && n <= 5) {
+			System.out.println("Not Weird");
+		}
+		
+		
+		
+		scanner.close();
+	}
+}

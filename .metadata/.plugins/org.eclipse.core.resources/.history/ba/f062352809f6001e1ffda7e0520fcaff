@@ -1,0 +1,15 @@
+package output_formatting;
+
+public class Main {
+
+	public static void main(String[] args) {
+		 System.out.println("================================");
+         for(int i=0;i<3;i++)
+         {
+             String s1=sc.next();
+             int x=sc.nextInt();
+             //Complete this line
+         }
+         System.out.println("================================");
+	}
+}
