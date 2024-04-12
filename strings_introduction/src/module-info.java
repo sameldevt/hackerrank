@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module strings_introduction {
-}

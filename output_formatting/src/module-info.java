@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module output_formatting {
-}

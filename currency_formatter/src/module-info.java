@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module currency_formatter {
-}
