@@ -183,3 +183,78 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 !MESSAGE Exception caught during execution of command '[bash, --login, -c, which git]' in 'C:\Users\Magna', return code '1', error message '<3>WSL (9) ERROR: CreateProcessEntryCommon:505: execvpe /bin/bash failed 2
 <3>WSL (9) ERROR: CreateProcessEntryCommon:508: Create process not expected to return
 '
+!SESSION 2024-04-11 11:12:21.768 -----------------------------------------------
+eclipse.buildId=4.31.0.20240307-1200
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -data C:\dev\workspace\hacker_rank-ws
+
+!ENTRY ch.qos.logback.classic 1 0 2024-04-11 11:12:24.834
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-04-11 11:12:26.479
+!MESSAGE Logback config file: C:\dev\workspace\hacker_rank-ws\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.0.20240217-1525.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-04-11 11:12:34.149
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Magna'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-04-11 11:12:37.121
+!MESSAGE Exception caught during execution of command '[bash, --login, -c, which git]' in 'C:\Users\Magna', return code '1', error message '<3>WSL (9) ERROR: CreateProcessEntryCommon:505: execvpe /bin/bash failed 2
+<3>WSL (9) ERROR: CreateProcessEntryCommon:508: Create process not expected to return
+'
+!SESSION 2024-04-11 12:21:17.459 -----------------------------------------------
+eclipse.buildId=4.31.0.20240307-1200
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-04-11 12:21:20.193
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-04-11 12:21:27.445
+!MESSAGE Logback config file: C:\dev\workspace\hacker_rank-ws\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.0.20240217-1525.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-04-11 12:21:33.129
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Magna'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-04-11 12:21:36.113
+!MESSAGE Exception caught during execution of command '[bash, --login, -c, which git]' in 'C:\Users\Magna', return code '1', error message '<3>WSL (9) ERROR: CreateProcessEntryCommon:505: execvpe /bin/bash failed 2
+<3>WSL (9) ERROR: CreateProcessEntryCommon:508: Create process not expected to return
+'
+!SESSION 2024-04-12 00:29:56.098 -----------------------------------------------
+eclipse.buildId=4.31.0.20240307-1200
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-04-12 00:29:58.837
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-04-12 00:30:04.852
+!MESSAGE Logback config file: C:\dev\workspace\hacker_rank-ws\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.0.20240217-1525.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-04-12 00:30:12.380
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Magna'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-04-12 00:30:15.178
+!MESSAGE Exception caught during execution of command '[bash, --login, -c, which git]' in 'C:\Users\Magna', return code '1', error message '<3>WSL (9) ERROR: CreateProcessEntryCommon:505: execvpe /bin/bash failed 2
+<3>WSL (9) ERROR: CreateProcessEntryCommon:508: Create process not expected to return
+'
